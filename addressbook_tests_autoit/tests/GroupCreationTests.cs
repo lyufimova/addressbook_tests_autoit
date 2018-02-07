@@ -23,6 +23,5 @@ namespace addressbook_tests_autoit
             newGroups.Sort();
             Assert.AreEqual(oldGroups, newGroups);
         }
-        //Test
     }
 }
